@@ -1,5 +1,5 @@
 ##  About Me:
- Hi, I'm Luckman Khan<br><br>I'm a Computer Science student passionate about AI and Machine Learning.<br>Currently exploring Deep Learning fundamentals — blending theory with hands-on projects to build strong intuition.<br><br> I love solving LeetCode problems in Python , experimenting with ML algorithms, and digging deep into how things actually work under the hood.<br><br> Always learning, building, and refining.
+ Hi, I'm Luckman Khan<br><br>I'm a Computer Science student passionate about AI and Machine Learning.<br>Currently exploring Deep Learning fundamentals,blending theory with hands-on projects to build strong intuition.<br><br> I love solving LeetCode problems in Python , experimenting with ML algorithms, and digging deep into how things actually work under the hood.<br><br> Always learning, building, and refining.
 
 
 ## 🌐 Socials:
