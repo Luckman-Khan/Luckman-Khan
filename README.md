@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 B.Tech student specializing in Artificial Intelligence and Machine Learning, currently building intelligent systems and agentic AI applications. Focused on turning complex data into actionable insights through open-source projects and creative coding.
 
 
